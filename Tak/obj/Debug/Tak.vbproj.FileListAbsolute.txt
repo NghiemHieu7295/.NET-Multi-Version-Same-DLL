@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\bin\Debug\Tak.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\bin\Debug\Tak.pdb
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\bin\Debug\Tak.xml
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\bin\Debug\Newtonsoft.v1.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.vbproj.AssemblyReference.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.Resources.resources
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.vbproj.GenerateResource.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.vbproj.Up2Date
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.xml
+D:\VisualStudioProjects\FirstVBConsoleApp\Tak\obj\Debug\Tak.pdb

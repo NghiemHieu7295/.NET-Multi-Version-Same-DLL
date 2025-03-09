@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.vbproj.AssemblyReference.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.Resources.resources
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.vbproj.GenerateResource.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\bin\Debug\Newtonsoft.v2.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\bin\Debug\Newtonsoft.v2.pdb
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\bin\Debug\Newtonsoft.v2.xml
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.v2.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.v2.xml
+D:\VisualStudioProjects\FirstVBConsoleApp\Newtonsoft\obj\Debug\Newtonsoft.v2.pdb

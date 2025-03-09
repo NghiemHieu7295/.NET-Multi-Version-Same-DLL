@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\bin\Debug\Dio.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\bin\Debug\Dio.pdb
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\bin\Debug\Dio.xml
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\bin\Debug\Newtonsoft.v2.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.vbproj.AssemblyReference.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.Resources.resources
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.vbproj.GenerateResource.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.vbproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.vbproj.Up2Date
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.dll
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.xml
+D:\VisualStudioProjects\FirstVBConsoleApp\Dio\obj\Debug\Dio.pdb
