@@ -1,11 +1,28 @@
-﻿Module Module1
+﻿Imports System.IO
+Imports System.Reflection
+
+Module Module1
 
     Sub Main()
-        Dim takPrinter As Tak.Printer = New Tak.Printer
-        Dim dioPrinter As Dio.Printer = New Dio.Printer
+        AddHandler AppDomain.CurrentDomain.AssemblyResolve, AddressOf ResolveAssembly
 
-        takPrinter.Print()
-        dioPrinter.Print()
+        'Continue main program
     End Sub
+
+    Private Function ResolveAssembly(sender As Object, args As ResolveEventArgs) As Assembly
+        Dim basePath As String = AppDomain.CurrentDomain.BaseDirectory
+        Dim libPaths As String() = {Path.Combine(basePath, "thirdparties", "newtonsoft", "v1"), Path.Combine(basePath, "thirdparties", "newtonsoft", "v2")}
+
+        For Each libPath In libPaths
+            If Directory.Exists(libPath) Then
+                Dim dllPath As String = Path.Combine(libPath, New AssemblyName(args.Name).Name & ".dll")
+                If File.Exists(dllPath) Then
+                    Return Assembly.LoadFrom(dllPath)
+                End If
+            End If
+        Next
+
+        Return Nothing
+    End Function
 
 End Module
